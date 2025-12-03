@@ -1,6 +1,6 @@
 # DsAgentWeb
 
-A Vue 3 + TypeScript single-page application for interacting with an AI assistant over chat and reasoning APIs.
+A modern Vue 3 + TypeScript single-page application for interacting with an AI assistant over chat and reasoning APIs.
 
 ## Features
 
@@ -26,8 +26,8 @@ A Vue 3 + TypeScript single-page application for interacting with an AI assistan
 
 ### Prerequisites
 
-- Node.js 18+ (recommended)
-- pnpm / npm / yarn (any one package manager)
+- Node.js 18+ or higher (recommended)
+- pnpm / npm / yarn (choose your preferred package manager)
 
 ### Install Dependencies
 
@@ -54,7 +54,7 @@ npm run dev
 # or: pnpm dev
 ```
 
-By default Vite runs on `http://localhost:5173` (or the next available port).
+By default, Vite runs on `http://localhost:5173` (or the next available port if 5173 is in use).
 
 ### Build for Production
 
