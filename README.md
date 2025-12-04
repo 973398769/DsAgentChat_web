@@ -1,16 +1,16 @@
-# DsAgentWeb
+# DsAgentWeb 🤖
 
 A modern Vue 3 + TypeScript single-page application for interacting with an AI assistant over chat and reasoning APIs.
 
 ## Features
 
-- Modern Vue 3 SPA built with Vite and TypeScript
-- Login / registration flow with client-side validation
-- Token-based authentication integrated with backend APIs
-- Chat, reasoning, and search endpoints streamed via `fetch` and readable streams
-- State management with Pinia
-- Routing with Vue Router
-- Axios wrapper for HTTP requests
+- ✨ Modern Vue 3 SPA built with Vite and TypeScript
+- 🔐 Login / registration flow with client-side validation
+- 🎫 Token-based authentication integrated with backend APIsPIs
+- 💬 Chat, reasoning, and search endpoints streamed via `fetch` and readable streams
+- 📦 State management with Pinia
+- 🧭 Routing with Vue Router
+- 🌐 Axios wrapper for HTTP requests
 
 ## Tech Stack
 
